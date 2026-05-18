@@ -8,7 +8,7 @@ I ship AI products end-to-end: design, engineering, launch.
 https://spectr.to
 https://github.com/Meliwat/spectr
 
-**awesome-ios-design-md**: a library of 50 popular apps as markdown design specs, 3 detail levels each.
+**awesome-ios-design-md**: design specs for 200 popular apps as structured markdown, with SwiftUI, Jetpack Compose, and Expo targets.
 https://github.com/Meliwat/awesome-ios-design-md
 
 **MDSwap**: community hub for AI agent markdown (prompts, skills, references) with ranking and a follow graph.
