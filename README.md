@@ -4,7 +4,7 @@ I ship AI products end-to-end: design, engineering, launch.
 
 ### Building
 
-**Spectr**: MCP server for Claude Code that turns iOS screen recordings into structured design specs. 100+ users in week one.
+**Spectr**: MCP server for Claude Code that turns iOS screen recordings into structured design specs. 250+ users in week one.
 https://spectr.to
 https://github.com/Meliwat/spectr
 
